@@ -21,13 +21,13 @@ Clone the repository using the following command:
 
 bash
 
-git clone https://github.com/YOUR_USERNAME/ML-Web-App.git
+git clone https://github.com/danielramandi/ML_streamlit_webApp.git
 
 Navigate to the cloned repository:
 
 bash
 
-cd ML-Web-App
+cd ML_streamlit_webApp
 
 Install the required packages:
 
@@ -39,7 +39,7 @@ To run the application on your local machine, use the following command:
 
 arduino
 
-streamlit run app.py
+streamlit run scripts/app.py
 
 This will start the application in your default web browser.
 
